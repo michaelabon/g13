@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<profiles xmlns="http://www.logitech.com/Cassandra/2010.7/Profile">
+  <profile name="Cities: Skylines" launchable="1" guid="{D9C2E978-B908-406B-8DA9-3A50597FE8BF}" gameid="" lastplayeddate="2018-04-09T20:15:16" lock="0" gkeysdk="0" gpasupported="0">
+    <description></description>
+    <target path="C:\PROGRAM FILES (X86)\STEAM\STEAMAPPS\COMMON\CITIES_SKYLINES\CITIES.EXE"/>
+    <signature name="" executable="" value="" key=""/>
+    <macros>
+      <macro name="Pause" hidden="false" guid="{5CBAAD4D-419F-4F27-93C0-4072A4672F78}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="SPACEBAR"/>
+        </keystroke>
+      </macro>
+      <macro name="Roads" hidden="false" guid="{D89E606D-6475-4E46-9246-E138D776D1A9}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="R"/>
+        </keystroke>
+      </macro>
+      <macro name="Zoning" hidden="false" guid="{0BA756A5-EF12-4FB2-A59F-3F97C3CADB7C}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="Z"/>
+        </keystroke>
+      </macro>
+      <macro name="Districts" hidden="false" guid="{321829B7-EF06-4B5E-BFCC-D0CB5BBB0584}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="D"/>
+        </keystroke>
+      </macro>
+      <macro name="Electricity" hidden="false" guid="{8FD3BF5D-C86E-4439-8502-AE8BFDA7414A}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="E"/>
+        </keystroke>
+      </macro>
+      <macro name="Water and Sewage" hidden="false" guid="{33693808-3686-4F16-A2A6-27C0D1080C41}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="W"/>
+        </keystroke>
+      </macro>
+      <macro name="Garbage" hidden="false" guid="{CF37BD81-6824-471C-AD8B-2C9F396527F9}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="G"/>
+        </keystroke>
+      </macro>
+      <macro name="Healthcare" hidden="false" guid="{E0CAA8DF-FDCA-4750-A785-D2C413CE48E3}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="H"/>
+        </keystroke>
+      </macro>
+      <macro name="Fire" hidden="false" guid="{C063440A-9190-4EFA-A012-39131CBA600A}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F"/>
+        </keystroke>
+      </macro>
+      <macro name="Police" hidden="false" guid="{64188F27-6658-4935-9130-82292E3B164F}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="P"/>
+        </keystroke>
+      </macro>
+      <macro name="Education" hidden="false" guid="{B7717D9B-EF27-4AF4-B3A4-34535B13C480}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="Q"/>
+        </keystroke>
+      </macro>
+      <macro name="Public Transport" hidden="false" guid="{AB854CB3-73E1-423C-9A7E-4D60C83A4C7F}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="T"/>
+        </keystroke>
+      </macro>
+      <macro name="Decoration" hidden="false" guid="{026FAD9D-8924-4D0F-B75C-A1AAE2FB185D}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="C"/>
+        </keystroke>
+      </macro>
+      <macro name="Unique Buildings" hidden="false" guid="{F4FC7044-C394-4ADF-A429-372BEC6446BE}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="U"/>
+        </keystroke>
+      </macro>
+      <macro name="Monuments" hidden="false" guid="{5E23F74D-9715-4392-B71C-AB7B77F7931B}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="M"/>
+        </keystroke>
+      </macro>
+      <macro name="Budget" hidden="false" guid="{A1ABE323-C2EC-463B-BD6A-74806D5DE9DB}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="B"/>
+        </keystroke>
+      </macro>
+      <macro name="Bulldozer" hidden="false" guid="{161E2E45-6C90-4748-A6F3-DB4EBED5787B}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="V"/>
+        </keystroke>
+      </macro>
+      <macro name="Underground Bulldozing" hidden="false" guid="{9865D7D5-2046-49E2-A667-5C9B090B78F2}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="V"/>
+          <modifier value="LSHIFT"/>
+        </keystroke>
+      </macro>
+      <macro name="Enter" hidden="false" guid="{44539F37-CD75-4CD1-B9E9-147EB0A5FE0C}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="ENTER"/>
+        </keystroke>
+      </macro>
+      <macro name="Esc" hidden="false" guid="{746D461A-F934-42BA-BFB6-1F2876D202C5}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="ESCAPE"/>
+        </keystroke>
+      </macro>
+      <macro name="Up" hidden="false" guid="{456A6488-EE99-4AEA-A98B-B58589A1995A}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="UP"/>
+        </keystroke>
+      </macro>
+      <macro name="Left" hidden="false" guid="{FEB3D01B-BD18-40F2-B9EB-379BA204DFEB}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="LEFT"/>
+        </keystroke>
+      </macro>
+      <macro name="Right" hidden="false" guid="{D902479A-792D-499E-8E22-B2042A248E41}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="RIGHT"/>
+        </keystroke>
+      </macro>
+      <macro name="Down" hidden="false" guid="{51114F2D-91D6-42FB-AB5A-5B052B3D26F7}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="DOWN"/>
+        </keystroke>
+      </macro>
+      <macro name="Traffic Routes" hidden="false" guid="{D8F7943B-C5B7-47F7-A577-C49A42802EF7}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="T"/>
+          <modifier value="LSHIFT"/>
+        </keystroke>
+      </macro>
+      <macro name="Traffic Congestion" hidden="false" guid="{949171EE-AC87-4384-96C6-E71AD2F7637D}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="T"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro name="Joystick" hidden="false" guid="{93F34A3F-7081-4D53-A99D-E858D4D86800}" color="4278246655">
+        <joystick xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Joystick"/>
+      </macro>
+      <macro name="Move" hidden="false" guid="{6B6EDE87-EE53-4DC9-A6BD-939452DFE2A1}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="M"/>
+        </keystroke>
+      </macro>
+    </macros>
+    <assignments devicecategory="Logitech.Gaming.LeftHandedController">
+      <assignment original="false" backup="false" contextid="G21" macroguid="{A1ABE323-C2EC-463B-BD6A-74806D5DE9DB}" shiftstate="1"/>
+      <assignment original="false" backup="false" contextid="G19" macroguid="{161E2E45-6C90-4748-A6F3-DB4EBED5787B}" shiftstate="1"/>
+      <assignment original="false" backup="false" contextid="G14" macroguid="{026FAD9D-8924-4D0F-B75C-A1AAE2FB185D}" shiftstate="1"/>
+      <assignment original="false" backup="false" contextid="G2" macroguid="{B7717D9B-EF27-4AF4-B3A4-34535B13C480}" shiftstate="1"/>
+      <assignment original="false" backup="false" contextid="G23" macroguid="{44539F37-CD75-4CD1-B9E9-147EB0A5FE0C}" shiftstate="1"/>
+      <assignment original="false" backup="false" contextid="G24" macroguid="{746D461A-F934-42BA-BFB6-1F2876D202C5}" shiftstate="1"/>
+      <assignment original="false" backup="false" contextid="G8" macroguid="{C063440A-9190-4EFA-A012-39131CBA600A}" shiftstate="1"/>
+      <assignment original="false" backup="false" contextid="G1" macroguid="{E0CAA8DF-FDCA-4750-A785-D2C413CE48E3}" shiftstate="1"/>
+      <assignment original="false" backup="false" contextid="G22" macroguid="{5CBAAD4D-419F-4F27-93C0-4072A4672F78}" shiftstate="1"/>
+      <assignment original="false" backup="false" contextid="G7" macroguid="{64188F27-6658-4935-9130-82292E3B164F}" shiftstate="1"/>
+      <assignment original="false" backup="false" contextid="G6" macroguid="{949171EE-AC87-4384-96C6-E71AD2F7637D}" shiftstate="1"/>
+      <assignment original="false" backup="false" contextid="G13" macroguid="{D8F7943B-C5B7-47F7-A577-C49A42802EF7}" shiftstate="1"/>
+      <assignment original="false" backup="false" contextid="G9" macroguid="{F4FC7044-C394-4ADF-A429-372BEC6446BE}" shiftstate="1"/>
+      <assignment original="false" backup="false" contextid="G28" macroguid="{51114F2D-91D6-42FB-AB5A-5B052B3D26F7}" shiftstate="1"/>
+      <assignment original="false" backup="false" contextid="G27" macroguid="{D902479A-792D-499E-8E22-B2042A248E41}" shiftstate="1"/>
+      <assignment original="false" backup="false" contextid="G26" macroguid="{456A6488-EE99-4AEA-A98B-B58589A1995A}" shiftstate="1"/>
+      <assignment original="false" backup="false" contextid="G29" macroguid="{FEB3D01B-BD18-40F2-B9EB-379BA204DFEB}" shiftstate="1"/>
+      <assignment original="false" backup="false" contextid="G3" macroguid="{D89E606D-6475-4E46-9246-E138D776D1A9}" shiftstate="1"/>
+      <assignment original="false" backup="false" contextid="G4" macroguid="{8FD3BF5D-C86E-4439-8502-AE8BFDA7414A}" shiftstate="1"/>
+      <assignment original="false" backup="false" contextid="G5" macroguid="{33693808-3686-4F16-A2A6-27C0D1080C41}" shiftstate="1"/>
+      <assignment original="false" backup="false" contextid="G10" macroguid="{CF37BD81-6824-471C-AD8B-2C9F396527F9}" shiftstate="1"/>
+      <assignment original="false" backup="false" contextid="G18" macroguid="{6B6EDE87-EE53-4DC9-A6BD-939452DFE2A1}" shiftstate="1"/>
+    </assignments>
+    <backlight devicemodel="Logitech.Gaming.LeftHandedController.G13">
+      <mode color="#ff0000" shiftstate="1"/>
+      <mode color="#ffffff" shiftstate="2"/>
+      <mode color="#ffffff" shiftstate="3"/>
+    </backlight>
+    <script>function OnEvent(event, arg)
+  OutputLogMessage("event = %s, arg = %s\n", event, arg)
+
+  HandleZoneLayer(event, arg)
+  HandleSpeed(event, arg)
+end
+
+-- Use G15 as a layer-enabling key. It chords via the table below.
+function HandleZoneLayer(event, arg)
+  local ZONE_LAYER_KEY=15
+  local RESIDENTIAL_LO="4"
+  local RESIDENTIAL_HI="5"
+  local COMMERCIAL_LO="6"
+  local COMMERCIAL_HI="7"
+  local INDUSTRIAL="8"
+  local OFFICE="9"
+  local DEZONE="0"
+
+  if event == "G_PRESSED" and arg == ZONE_LAYER_KEY then
+    zone_layer_enabled = true
+  end
+
+  if event == "G_RELEASED" and arg == ZONE_LAYER_KEY then
+    zone_layer_enabled = false
+  end
+
+  if event == "G_PRESSED" and zone_layer_enabled then
+    if arg == 3 then
+      PressAndReleaseKey(RESIDENTIAL_LO)
+    elseif arg == 4 then
+      PressAndReleaseKey(COMMERCIAL_LO)
+    elseif arg == 5 then
+      PressAndReleaseKey(INDUSTRIAL)
+    elseif arg == 10 then
+      PressAndReleaseKey(RESIDENTIAL_HI)
+    elseif arg == 11 then
+      PressAndReleaseKey(COMMERCIAL_HI)
+    elseif arg == 12 then
+      PressAndReleaseKey(OFFICE)
+    elseif arg == 17 then
+      PressAndReleaseKey(DEZONE)
+    end
+  end
+end
+
+SPEED_KEYS={"1", "3"}
+SPEED_INDEX=1
+
+-- Toggle the simulation between normal speed and super fast speed
+-- G23 is the thumb button to the left of the joystick.
+function HandleSpeed(event, arg)
+  local TOGGLE_SPEED=23
+
+  if event == "G_PRESSED" and arg == TOGGLE_SPEED then
+    PressAndReleaseKey(SPEED_KEYS[SPEED_INDEX])
+    SPEED_INDEX = SPEED_INDEX + 1
+    if SPEED_INDEX > #SPEED_KEYS then
+      SPEED_INDEX = 1
+    end
+  end
+end
+</script>
+  </profile>
+</profiles>
